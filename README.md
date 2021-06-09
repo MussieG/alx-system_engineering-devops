@@ -1,0 +1,1 @@
+This README file contains all the shell baiscs.
